@@ -1,7 +1,7 @@
 {
   "name": "purescript-chalk",
   "version": "0.1.0",
-  "description": "PureScript FFI bindings for Chalk",
+  "description": "PureScript FFI bindings for Chalk.",
   "license": "MIT",
   "author": "Joel Lefkowitz",
   "devDependencies": {

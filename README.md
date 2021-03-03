@@ -1,6 +1,6 @@
 # PureScript Chalk
 
-PureScript FFI bindings for Chalk
+PureScript FFI bindings for Chalk.
 
 ## Status
 
