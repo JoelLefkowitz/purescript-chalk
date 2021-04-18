@@ -1,6 +1,6 @@
 project: purescript-chalk
 version: 0.1.0
 author: Joel Lefkowitz
-verbose_name: PureScript chalk
-html_title: PureScript chalk
-github_url: JoelLefkowitz/purescript-chalk
+verbose_name: Purescript chalk
+html_title: Purescript chalk 
+github_url: https://github.com/JoelLefkowitz/chalk-preparser
