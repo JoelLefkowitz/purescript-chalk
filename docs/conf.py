@@ -21,7 +21,7 @@ extensions = [
     "sphinxcontrib.apidoc",
 ]
 
-html_title = "Purescript chalk"
+html_title = "PureScript chalk"
 html_favicon = "static/favicon.ico"
 
 html_static_path = ["static"]
@@ -47,7 +47,7 @@ napoleon_google_docstring = True
 html_theme = "yummy_sphinx_theme"
 html_theme_options = {
     "navbar_icon": "spin fa-book",
-    "github_url": "https://github.com/JoelLefkowitz/chalk-preparser"
+    "github_url": "https://github.com/JoelLefkowitz/purescript-chalk"
 }
 
 """

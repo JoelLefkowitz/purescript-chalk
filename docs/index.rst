@@ -1,7 +1,7 @@
-Purescript chalk
+PureScript chalk
 ============
 
-Welcome to Purescript chalk's documentation!
+Welcome to PureScript chalk's documentation!
 
 .. raw:: html
    :file: README.html

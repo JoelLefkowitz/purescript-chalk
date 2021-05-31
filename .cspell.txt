@@ -137,6 +137,8 @@ flowtype
 fmarkdown
 fnda
 foistware
+foldl
+forall
 fortnite
 foss
 frame
@@ -254,6 +256,7 @@ mdelete
 mdi
 mdir
 memoryless
+mempty
 mfa
 mget
 mircscript
@@ -342,13 +345,13 @@ prettierignore
 printshiv
 privmsg
 progid
-progid
 proglog
 psb
 psci
 psd
 pseudorandom
 psycopg
+purescript
 purs
 purty
 pushbullet
